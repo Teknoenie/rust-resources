@@ -7,3 +7,6 @@ This tool extends Cargo to allow you to add, remove, and upgrade dependencies by
 
 [cross](https://crates.io/crates/cross)
 Zero setup cross compilation and cross testing
+
+[cargo-whatfeatures](https://crates.io/crates/cargo-whatfeatures)
+display features, versions and dependencies of crates
