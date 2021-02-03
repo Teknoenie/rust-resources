@@ -10,3 +10,6 @@ Zero setup cross compilation and cross testing
 
 [cargo-whatfeatures](https://crates.io/crates/cargo-whatfeatures)
 display features, versions and dependencies of crates
+
+[clap](https://crates.io/crates/clap)
+Command Line Argument Parser for Rust
